@@ -16,6 +16,8 @@ The same way good engineers now spend far more time talking to customers and wor
 
 We were surprised to find that a large part of the bottleneck preventing this future is purely technical.
 
-Three big buckets of innovations are required. First, AI needs to be able to read medical imaging with more 9’s of reliability (from 9x.xx% to 99.999%). Second, we need delightful and ubiquitous imaging hardware (rooting for you, David Holz!). Lastly, we need to automate image reporting. Incredible teams are working on the first two.
+Three big buckets of innovations are required. First, AI needs to be able to read medical imaging with more nines of reliability (from 9x.xx% to 99.999%). Second, we need delightful and ubiquitous imaging hardware (rooting for you, David Holz!). Lastly, we need to automate image reporting. Incredible teams are working on the first two.
 
-DragonSlayer is focused on the third bucket. If you’re deep in AI, you will be saddened to learn what the current state of the art looks like in radiology.
+DragonSlayer is focused on the third bucket. A few other good teams are pushing on this lever too, like [Rad AI](https://www.radai.com/), [RADPAIR](https://radpair.com/), and [DeepHealth](https://www.deephealth.com/). [Microsoft](https://www.microsoft.com/en-us/health-solutions/radiology-workflow/powerscribe-one) owns PowerScribe and is starting to support AI-generated impressions.
+
+Unfortunately, if you’re deep in AI, you will be saddened to learn what the current state of the art looks like in radiology.
