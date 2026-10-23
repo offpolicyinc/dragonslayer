@@ -21,3 +21,7 @@ Three big buckets of innovations are required. First, AI needs to be able to rea
 DragonSlayer is focused on the third bucket. A few other good teams are pushing on this lever too, like [Rad AI](https://www.radai.com/), [RADPAIR](https://radpair.com/), and [DeepHealth](https://www.deephealth.com/). [Microsoft](https://www.microsoft.com/en-us/health-solutions/radiology-workflow/powerscribe-one) owns PowerScribe and is starting to support AI-generated impressions.
 
 Unfortunately, if you’re deep in AI, you will be saddened to learn what the current state of the art looks like in radiology.
+
+We’re looking for a small number of partners who believe in the same wonderful future for radiology, from medical groups to research labs.
+
+Reach out to [nico@offpolicyinc.com](mailto:nico@offpolicyinc.com) if you are interested in collaborating on research, licensing our technology, or deploying DragonSlayer for your practice.
